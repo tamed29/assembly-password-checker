@@ -80,11 +80,11 @@ Based on the total score, the password is classified as:
 
 ---
 
----
+--
 
 ## ✅ Conclusion
 
 This program provides a clear and structured example of applying logical conditions and character analysis in **8086 Assembly Language**.  
 It meets the assignment requirements and follows clean, readable, and professional coding practices suitable for academic submission.
 
----
+DOne by Tamirat Dereje

@@ -10,7 +10,7 @@ header db 13,10
        db " Name       : Tamirat Dereje",13,10
        db " ID Number  : NSR/926/16",13,10
        db " Instructor : Eyasu T.",13,10
-       db " Course     : Microprocessor and Assembly",13,10
+       db " Course     : Microprocessor and Assembly Language",13,10
        db "==============================================",13,10,"$"
 
 ; ---------------- DATA ----------------
